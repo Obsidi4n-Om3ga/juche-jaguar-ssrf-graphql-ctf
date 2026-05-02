@@ -131,3 +131,20 @@ The turning point was trusting my intuition and verifying it instead of abandoni
 - Focused on real-world cloud attack surface techniques
 
 ---
+
+
+## 🧠 Thought Process
+
+One of the biggest challenges in this exercise wasn’t the technical steps—it was trusting my own reasoning.
+
+There were multiple points where I:
+- Revisited paths I had already explored
+- Questioned correct assumptions
+- Looked for more complex answers when the solution was already in front of me
+
+I had actually accessed the correct location earlier but second-guessed it and moved away from it.
+
+The breakthrough came when I trusted my initial instincts and verified them instead of abandoning them.
+
+This reinforced an important lesson:
+**Accuracy matters more than overcomplication.**
